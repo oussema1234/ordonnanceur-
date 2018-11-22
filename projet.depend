@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1541771028 source:/home/oussemabarka/c++/projet/main.c
+	<stdio.h>
+	<stdlib.h>
+
+1542489393 source:/home/oussemabarka/c++/mini projet SE/projet/main.c
+	<stdio.h>
+	<stdlib.h>
+	<stdbool.h>
+
